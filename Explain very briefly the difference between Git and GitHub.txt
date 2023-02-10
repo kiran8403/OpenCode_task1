@@ -1,0 +1,8 @@
+
+---------------------------------------------------------------------------------------------------------------------
+
+Git is a version control system that allows you to track changes to your code, and it is a great way to keep track of your work. It is also a great way to share your code with others, and it can be very useful when you are working on a project that involves a lot of collaboration. Git is also very easy to use, and it can be very intuitive when you first start out. It can also be very useful if you want to keep track of your work in a more organised way.
+---------------------------------------------------------------------------------------------------------------------
+
+Github is a web-based Git repository, that is. Cloud-based storage is offered by this hosting company. Git’s distributed version control and source code management capabilities are all provided by GitHub, along with some additional features. Utilising Git facilitates collaboration. The public can access GitHub repositories as well. GitHub serves as a networking platform for online professionals since developers from all over the world may engage, contribute to one another’s code, and edit or improve it. Social coding is another name for the process of participation and engagement.
+---------------------------------------------------------------------------------------------------------------------
